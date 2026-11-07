@@ -1,0 +1,6 @@
+{
+  "name": "Spawn: The Eternal",
+  "description": "Retro dark-fantasy arcade action game. Unleash necroplasm powers, wield chains, and battle demon hordes from Rat City to Hell's Gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
